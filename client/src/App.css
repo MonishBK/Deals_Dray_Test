@@ -1,0 +1,12 @@
+.login_div{
+  position: relative;
+}
+
+.basic_loading{
+  position: absolute;
+  z-index: 100;
+  display: flex;
+  background-color: black;
+}
+
+

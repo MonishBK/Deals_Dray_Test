@@ -1,0 +1,22 @@
+.right_navbar_items ul {
+  width: 100%;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-evenly;
+}
+
+.logo_con {
+  width: 40px;
+  height: 40px;
+  background: url("../images/logo.jpg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  border: 1px solid rgba(146, 146, 146, 0.315);
+  border-radius: 5px;
+}
+
+.active {
+  color: red;
+}
+/*# sourceMappingURL=Navbar.css.map */
